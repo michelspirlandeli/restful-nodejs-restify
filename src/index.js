@@ -1,12 +1,7 @@
-const restify = require('restify')
 
-const server = restify.createServer()
+require('dotenv').config()
 
-server.get('/', (req, res, next) =>{
+const server = require('./server')
 
-	res.send('Enjoy the silence!')
-	
-	next()
-})
 
 server.listen('3456')
