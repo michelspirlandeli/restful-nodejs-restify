@@ -1,5 +1,9 @@
 ## RESTful com Node.js, Restify e MySQL
 
+Este projeto foi desenvolvido para estudo e está disponível no canal do youtube codecasts.
+Link:https://www.youtube.com/watch?v=xJp_Zhxh5YU&list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF
+Autor:Vedovelli
+
 ### Pré-requisitos
 
 - **Node.js** versão 8 ou superior;
