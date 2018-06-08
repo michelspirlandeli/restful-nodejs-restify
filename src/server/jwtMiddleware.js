@@ -10,7 +10,7 @@ const jwtMiddleware = (deps) => {
 
       if (!token) {
 
-        res.send(403, { error: 'Token não fornecido' })
+        res.send(403, { error: 'Token não fornecido!!!' })
         return false
 
       }
